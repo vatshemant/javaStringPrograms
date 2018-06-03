@@ -26,7 +26,7 @@ public class Reverse {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("ENTER A STRING");
 		String str = sc.nextLine();
-		Reverse rev = new Reverse();
+		Reverse rev = new Reverse();//Creating Object.
 		rev.doReverse(str);
 	}
 }
