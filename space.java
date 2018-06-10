@@ -2,7 +2,7 @@ package space;
 import java.util.Scanner;
 
 public class space {
-public static void main(String s[]) {
+public static void main(String args[]) {
 	Scanner scanner= new Scanner(System.in);
 	String str;
 	System.out.println("Enter a String");
